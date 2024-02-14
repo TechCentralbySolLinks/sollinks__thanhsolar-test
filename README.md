@@ -1,6 +1,5 @@
-# sollinks.testing
-- This is the alpha testing of SolLink's project (Solinks's Landing Page). Hope you guys enjoy this project !
-- This project take me about 4 weeks of work(Not fast huh ?). All source code of this project can be downloaded except all the images in the web.
-- takes it and make it yours !
-By Thanh Solar, a member of SolLinks
-Est.2017.
+#Sollinks's Main Landing
+- Trước hết, đây là một trang web đang trong quá trình hoàn thành, trang web sẽ dược triển khai trong đợt triển khai đồng loạt (2032).
+- Trang Web là bức hình dung chung cho một SolLinks đang không ngừng nỗ lực.
+- Có nhiều trang web sẽ được làm ra đồng bộ với sự phát triển của SolLinks.
+- Trang web sử dụng: HTML, CSS, javascript. Sắp tới sẽ cố phát triển thêm nhiều các tính năng như (tích hợp To-do list local).
